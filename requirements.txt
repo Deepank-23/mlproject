@@ -1,7 +1,8 @@
 pandas
 numpy
 seaborn
-matplotlib
+matplotlib>=3.5.0,<4.0
+matplotlib-inline
 scikit-learn
 catboost
 xgboost

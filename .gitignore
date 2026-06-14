@@ -1,5 +1,6 @@
 history.txt
 setup_log.txt
+catboost_info/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -151,6 +152,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+.artifacts
 .env
 .envrc
 .venv
