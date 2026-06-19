@@ -6,5 +6,6 @@ matplotlib-inline
 scikit-learn
 catboost
 xgboost
+dill
 
 #-e .
